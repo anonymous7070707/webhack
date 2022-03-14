@@ -1,0 +1,36 @@
+.first{
+  padding: 50px;
+  margin: 50px auto;
+}
+.second
+{
+  padding: 50px;
+  margin: 50px auto;
+}
+.fb
+{
+  position:absolute;
+  right:500px;
+  width: 40px;
+  text-align: center;
+}
+.ld
+{
+  position: absolute;
+  right:600px;
+  width: 40px;
+}
+.foot
+{
+  padding: 20px;
+}
+.insta
+{
+  position: absolute;
+  right:700px;
+  width:40px;
+}
+.aboutcard
+{
+  padding: 40px;
+}
